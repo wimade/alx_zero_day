@@ -1,2 +1,2 @@
 My first readme
-WIMADE LMS
+WIMADE Learning Management System
